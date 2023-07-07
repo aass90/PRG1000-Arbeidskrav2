@@ -1,0 +1,6 @@
+INF1000
+Informasjonssystemer
+PRG1000
+Grunnleggende Programmering 1
+Web1100
+Webutvikling og HCI
